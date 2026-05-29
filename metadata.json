@@ -1,0 +1,6 @@
+{
+  "name": "ToolVerse",
+  "description": "A privacy-first suite of developer, formatting, and file processing utilities built for speed and security.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
